@@ -13,7 +13,7 @@
     justify-content: space-between;
     cursor: pointer;
     padding: 1rem;
-    background: silver;
+    background: #f3f3f3;
 }
 
 .todoBox i {
