@@ -1,0 +1,21 @@
+.todoBox {
+    margin-bottom: 1rem;
+}
+
+.todoBox.completed span {
+    text-decoration: line-through;
+}
+
+.todoBox label {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 1rem;
+    background: silver;
+}
+
+.todoBox i {
+    z-index: 2;
+}
